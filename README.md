@@ -1,1 +1,4 @@
-# Smart Vehicle Diagnostics and SMS-Based Location Tracking System
+Smart Vehicle Diagnostics and Location Tracking System:
+
+This project presents a comprehensive smart vehicle monitoring system that integrates GPS, accelerometer, and GS communication for real time location tracking, accident detection, and remote alerts. In the event of a collision or vehicle flip, the system automatically transmits emergency notifications with precise GPS coordinates, while also supporting location queries for theft recovery. Furthermore, the system is interfaced with the vehicles CAN bus via
+MCP2515 and TJA1050, enabling monitoring of critical engine parameters such as RPM, speed, fuel level, and temperature. The design also supports remote motor control via SMS commands, making it a robust, cost effective, and scalable solution for modern vehicle diagnostics and safety.
